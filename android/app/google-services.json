@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545341343064",
+    "project_id": "filedattente-ec99a",
+    "storage_bucket": "filedattente-ec99a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545341343064:android:6f85a4ee56e4aa336dd12d",
+        "android_client_info": {
+          "package_name": "com.example.file_dattente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi0m7KQZ1akJprBOoWaEtSh39ELyWiJYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
